@@ -1,5 +1,8 @@
-package com.example.finalcicdproject;
+package com.example.finalcicdproject.service;
 
+import com.example.finalcicdproject.CustomUserDetails;
+import com.example.finalcicdproject.entity.User;
+import com.example.finalcicdproject.repos.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

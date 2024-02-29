@@ -1,4 +1,4 @@
-package com.example.finalcicdproject;
+package com.example.finalcicdproject.entity;
 
 
 import jakarta.persistence.*;

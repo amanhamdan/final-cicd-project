@@ -2,6 +2,7 @@ package com.example.finalcicdproject;
 
 import java.util.Collection;
 
+import com.example.finalcicdproject.entity.User;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
 

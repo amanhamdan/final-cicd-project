@@ -1,5 +1,6 @@
-package com.example.finalcicdproject;
+package com.example.finalcicdproject.repos;
 
+import com.example.finalcicdproject.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 

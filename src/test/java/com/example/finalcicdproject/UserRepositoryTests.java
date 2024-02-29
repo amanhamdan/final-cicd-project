@@ -2,6 +2,8 @@ package com.example.finalcicdproject;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
+import com.example.finalcicdproject.entity.User;
+import com.example.finalcicdproject.repos.UserRepository;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.jdbc.AutoConfigureTestDatabase;
